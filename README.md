@@ -22,6 +22,14 @@ When you map industry sponsorship across development stages, a striking pattern 
 Industry commits heavily where trials are predictable — and systematically retreats from Depression and PTSD, the two largest unmet markets in mental health. This is not a science problem. It is a risk appetite problem. And it represents a first-mover commercial opportunity.
 
 ---
+## Strategic Interpretation
+
+Industry's concentration in late-stage Schizophrenia (63%) and Anxiety (75%) — indications with cleaner regulatory precedent and more predictable endpoints — suggests companies are optimising for development risk reduction rather than unmet need. PTSD and TRD represent the opposite profile: large patient populations, well-understood biology, but historically unpredictable trial designs that make Phase III outcomes harder to model. Industry has penalised these indications beyond what the science warrants.
+This is a valuation problem, not a science problem.
+The April 2026 White House Executive Order directing FDA fast-track review of psychedelic treatments — including ibogaine for PTSD — represents a structural policy shift that directly challenges incumbent risk models. Priority review vouchers have already been issued to Compass Pathways (psilocybin, TRD), Usona Institute (psilocybin, MDD), and Transcend Therapeutics (methylone, PTSD) within days of the order.
+For investors with a CNS thesis: low late-stage competition, high unmet need, and a policy tailwind the market has not yet fully priced in.
+
+---
 
 ## Data Source
 
